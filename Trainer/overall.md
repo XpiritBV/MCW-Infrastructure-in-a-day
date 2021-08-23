@@ -1,0 +1,4 @@
+structured:
+why,
+what,
+how
